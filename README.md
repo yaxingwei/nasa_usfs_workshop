@@ -18,3 +18,6 @@ In this tutorial, we will dynamically access soil moisture data of multiple sour
 ## Earthdata Account
 
 A NASA Earthdata account is required to access data through the Soil Moisture Visualizer (SMV). Running the cell below will prompt you for your username and password. If you do not have a NASA Earthdata, follow the link that is displayed and register before logging in.
+
+Click this to launch a binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaxingwei/usfs_nasa_workshop_day3/master)
